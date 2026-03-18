@@ -5,7 +5,7 @@
 
 
 Kịch bản thực hiện
-Tạo file: Tạo new text document.txt và test.txt.
+Tạo file: Tạo file test.txt.
 Chỉnh sửa: Thay đổi nội dung bên trong test.txt.
 Xóa: Xóa file để kiểm tra khả năng phát hiện mất dữ liệu.
 
